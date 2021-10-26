@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Vida</title>
+    <link rel="stylesheet" href="css/Index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="name">
+        
+        </div>
+        <div class="content">
+            <p class="p-1">Nayvelin Gonzáles</p>
+           
+
+        </div>
+
+    </div>
+
+    <div class="info">
+        <p class="tituloSeccion">Datos personales </p> 
+        <p class="tituloInfo"> Cédula:</p>
+        <p class="infoInfo"> 8-965-90</p> <br>
+        <p class="tituloInfo"> apellido: </p>
+        <p class="infoInfo"> Gonzáles </p> <br>
+        <p class="tituloInfo"> Nombre: </p>
+        <p class="infoInfo"> Nayvelin</p> <br>
+        <p class="tituloInfo"> Nacionalidad: </p>
+        <p class="infoInfo"> Panameña</p> <br>
+        <p class="tituloInfo"> Edad: </p>
+        <p class="infoInfo"> 20 años</p> <br>
+        <p class="tituloInfo"> correo: </p>
+        <p class="infoInfo"> nayvelin@hotmail.es</p> <br>
+    </div>
+
+    <div class="info">
+        <p class="tituloSeccion">estudio realizado </p> 
+        <p class="tituloInfo"> Primaria: </p>
+        <p class="infoInfo"> Centro General Nuevo Arraiján</p> <br>
+        <p class="tituloInfo"> Secundaria: </p>
+        <p class="infoInfo"> C.E. Guillermo Endara Galimany </p> <br>
+        <p class="tituloInfo"> Superior: </p>
+        <p class="infoInfo"> Universidad de Panamá </p>
+    </div>
+
+    <div class="info">
+        <p class="tituloSeccion">Referencias personales </p> 
+        <p class="tituloInfo"> Nombre y teléfono:</p>
+        <p class="infoInfo"> Natalys Gonzáles / 6874-5431</p> <br>
+        <p class="tituloInfo"> Nombre y teléfono: </p>
+        <p class="infoInfo"> Nadia Gonzáles / 6251-6745</p> <br>
+      
+    </div>
+
+    
+
+</body>
+</html>
